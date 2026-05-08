@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "446641578067",
+    "firebase_url": "https://clientes-umobi-default-rtdb.firebaseio.com",
+    "project_id": "clientes-umobi",
+    "storage_bucket": "clientes-umobi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446641578067:android:505c7d4c16934fda3166a6",
+        "android_client_info": {
+          "package_name": "com.lorrane.clientesumobi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNpChjDbVHkKNm1nyH8l6jMDtyTQT9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446641578067:android:3063e723099b3a033166a6",
+        "android_client_info": {
+          "package_name": "com.lorrane.coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNpChjDbVHkKNm1nyH8l6jMDtyTQT9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
